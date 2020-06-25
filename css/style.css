@@ -126,7 +126,9 @@ p{
     }
     .listado h3{
         text-align: center;
-
+    }
+    .listado p{
+        text-align: center;
     }
     .elemento{
         border:none;
